@@ -1,0 +1,4 @@
+[submodule "tools/librealsense"]
+	path = tools/librealsense
+	url = https://github.com/IntelRealSense/librealsense.git
+	branch = master
