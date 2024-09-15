@@ -1,6 +1,13 @@
-# dua-template
+# realsense_drivers
 
-GitHub template repositories for projects based on the Distributed Unified Architecture.
+Collection of ROS 2 drivers for Intel RealSense cameras.
+
+## Contents
+
+- [`realsense-ros`](src/realsense-ros/README.md): official ROS 2 driver for Intel RealSense cameras.
+- [`librealsense`](tools/librealsense/readme.md): for reference, the original Intel RealSense SDK as installed in the container.
+
+## DUA integration
 
 See [`dua-template.md`](dua-template.md) for more information.
 
